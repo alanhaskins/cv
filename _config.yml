@@ -21,7 +21,7 @@ linkedin_username: alan-haskins-52a45116a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a principal software engineer with 10 years' experience within a large IT organization. I've quickly progressed from internship through the grades to tech leading applications with 100,000 daily users.
+  I'm a principal software engineer with 10 years' experience within a large IT organization. I've quickly progressed from internship through the grades to tech leading applications with 100,000 daily users (TODO: check this).
 
   I've experience across a variety of projects and exposure to range of tools and techniques. In the last few years I've worked on designing and implementing cloud native services and event driven solutions. Most recently I've been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic services to enable teams to quickly spin up and roll out future rating programs.
 
@@ -133,7 +133,7 @@ content:
         caption: 2006 - 2011
         sub_title: BSc Computing and Information Technology
         description: | # this will include new lines to allow paragraphs
-          I recieved 1st class honours from my CIT course and received an award for best performing student on this course.
+          I received 1st class honours from my CIT course and received an award for best performing student on this course.
 
   - title: Interests
     layout: text
