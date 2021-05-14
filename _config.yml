@@ -23,11 +23,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a principal software engineer with 10 years' experience within a large IT organization. I've quickly progressed from internship through the grades to tech leading applications with 100,000 daily users.
 
-  I've experience across a variety of projects and exposure to range of tools and techniques. In the last few years I've worked on building some of the first cloud native architectures within LIT as well as building and designing a number of event driven solutions. Most recently I've been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic core services that will enable teams to quickly spin up and roll out rating programs going forward.
+  I've experience across a variety of projects and exposure to range of tools and techniques. In the last few years I've worked on designing and implementing cloud native services and event driven solutions. Most recently I've been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic services to enable teams to quickly spin up and roll out future rating programs.
 
-  I particularly enjoy experimentation and innovation. POCing new concepts. Cloud native and serverless architectures. Working closely with other developers to design complex systems and concepts.
+  I particularly enjoy experimentation, innovating and testing proof of concepts on cloud native and serverless architectures, as well working closely with other developers to design complex systems and concepts.
 
-  Skilled in performance, stability and security analysis.
+  My projects have given me opportunities to take ownership of the performance, stability and security of my applications and Ive developed a strong focus on these aspects in my deliverables.
 
 content:
   - title: Work Experience # Title for the section
@@ -40,38 +40,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Roles and responsibilities included**:
 
-          - Rating programing and UI build out
-            - React, AWS, NodeJS, Typescript, DocumentDB, SNS, SQS
-          - Significant throughput expectations
-          - Event Driven Architecture
-            - Architecture design and reviews
-            - POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
-            - Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
-            - Kafka and container applications and AWS integration
-          - Reuse
-          - Automation (CDK)
-            - Innovation & experimentation
-            - Fargate solution
-            - Lambda Power Tuner
-            - Storybook
-            - Artillery test suites
-            - Snyk security testing, reuse idea from other areas, first added to Sales space
-            - Kafka Connect POC
-          - Mentoring / Team structure
-            - New starts
-            - Code reviews
-            - Lightning Talks
-            - Pair programming
-            - Ramping new devs up in unfamiliar domains
-            - Coaching (specifically autism)
-            - Task delegation, reviews and feedback
-          - Organized and heavily contributed to Well Architected Reviews for AWS workloads
-          - Working with PO to define stories, backlogs. Leading agile ceremonies.
-          - Agile methodologies. Agile and pushed for switch to Kanban to facilitate the work type
-          - Demos, technical discussions with high up technical people. Cross team impacts.
-          - Total Cost of Ownership considerations
-
-          **Technologies used**: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, Git. Experimentation with EventBridge, AWS MSK and Kafka.
+          - Providing technical leadership on a team creating a UI and services as part of a new home quoting system, as well as a core capabilities platform and event driven architecture
+          - POCing a number of technology options and designing alternative solutions to complex problems, including total cost of ownership of solutions
+          - Working closely across teams and with senior technical leaders to gather system requirements, demo and review solutions
+          - Innovating and reusing solutions to improve performance and speed to market for our applications.
+            - Including contributing some of the first components to our internal CDK repo, introducing storybook component library, artillery performance testing, lambda performance tuning, reusable proxy solution and Kafka to lambda enablement.
+          - Working with product owner and team to define and prioritize stories in a technically complex domain
+          - Mentoring an inexperienced team via code reviews, pair programming, architectural overviews and lightning talks
+          - Organizing and contributing to Well Architected Reviews for AWS workloads
 
       - layout: left
         title: Liberty IT, Belfast
@@ -80,37 +56,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Roles and responsibilities included**:
 
-          - Technology used
-          - DOJO, Java, Process  Server, BPM, mobile app testing
-          - AWS services used
-          - Modernization
-          - ADIL
-          - Virus scanner
-          - Threat modelling and taking through security review
-          - SELF STUDY
-          - AWS, React
-          - PSS and innovation sprint
-          - Performance optimzation
-          - TECH LEAD
-          - Projects
-          - PCI
-          - Life Policy
-          - Monthly Release
-          - Dojo Upgrade
-          - OPC rollout
-          - DUBLIN / US Teams ramp up and mentoring to be self sufficient
-          - Presentation, architecture walk throughs, pair programming
-          - 2 weeks in US
-          - A/B Testing
-          - Exploratory Testing
-          - Performance Testing
-          - BDD
-          - Code reviews
-          - Tech talks
-          - Inner sourcing
-          - TCO analysis
-
-          **Technologies used**: CFT, Serverless, Lambda, API Gateway, DynamoDB, React, NodeJS, DOJO, Java, Process Server, BPM. Experimentation with AWS Rekognition and TextTract.
+          - Tech lead on a number of agile projects and worked closely with team, product owners and business partners to define workloads
+          - Responsible for delivering secure, stable and performant applications, working on project design through to production delivery and maintenance
+          - Worked on some of the first AWS cloud native architectures in Liberty Mutual, primarily learning through self directed study
+          - Developed applications with a Performance, Stability and Security (PSS) focussed mentality
+          - Creation of a PSS application and led cross team initiative to engage teams to improve PSS aspects of their applications
+          - Took projects though security review processes and implemented an antivirus scanner to protect our resources against unsafe files
+          - Mentoring and transitioning of workloads to  remote teams, including spending 2 weeks in US to provide support to new teams
+          - Built experience in a number of techniques including pair programming, exploratory testing, threat modelling, A/B testing and BDD
 
       - layout: left
         title: Liberty IT, Belfast
@@ -118,52 +71,59 @@ content:
         caption: June 2011 – April 2014
         description: | # this will include new lines to allow paragraphs
             **Roles and responsibilities included**:
-              
-            - Technology used
-            - Unit, integration, exploratory testing
-            - Various projects
-            - Make a payment
-            - Home page redesign (distributed teams)
-            - Working closely with business teams
-            - Initially mostly waterfall projects
-            - OPC
-            - Deadlines, £20m budget
-            - Data analytics. Analytics Framework. Worked wi
-            - Front End guidance teams
-            - Science fairs
+
+            - Proving myself as a trusted and capable team member who could work on a variety of tasks autonomously
+            - Quickly understanding and undertaking work in unfamiliar domains and technologies
+            - Working closely with business partners and remote team members and delivering on projects, primarily via waterfall methodology
+            - Validating code deliveries via unit, integration and exploratory testing
+            - Working with technical leaders and other project teams to gather requirements and implement an analytics framework in a high pressure environment
+            - Participated in guidance teams to ensure code quality and consistency across teams
+            - Represented LIT at external events such as graduate science fairs
 
             **Technologies used**: DOJO, Java, Process Server, BPM, Omniture
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Distribution Capabilities Platform
 
+        description: | # this will include new lines to allow paragraphs
+          Creating a number of product agnostic and event driven services to enable faster development of future quoting systems.
+
+          **Technologies used**: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, DocumentDB, React, Typescript, NodeJS, GraphQL, REST, Git, Bamboo, Splunk, Datadog. Experimentation with EventBridge, AWS MSK and Kafka.
+
+      - layout: left
+        title: Oasis 2 Home Quoting
 
         description: | # this will include new lines to allow paragraphs
-          Project Description and technology used?
+          A UI and services to support quoting, rating and binding of home policies through liberymutual.com
 
-      - layout: top-middle
-        title: Oasis 2 Rating Program
+          **Technologies used**: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, GraphQL, REST, Git, Bamboo, Splunk, Datadog.
 
-
-        description: | # this will include new lines to allow paragraphs
-          Project Description and technology used?
-
-      - layout: top-middle
-        title: Online Policy Change Modernization
-
+      - layout: left
+        title: Serverless Policy Endorsements (OPC)
 
         description: | # this will include new lines to allow paragraphs
-          Project Description and technology used?
+          Using event driven architectures to automate policy endorsement opportunities for customers.
 
-      - layout: top-middle
-        title: ADIL
+          **Technologies used**: CFT, Lambda, Step Functions, Fargate, API Gateway, DynamoDB, S3, React, NodeJS, REST, Git, Jenkins.
 
+      - layout: left
+        title: Auto Damage Inspection at Liberty
 
         description: | # this will include new lines to allow paragraphs
-          Project Description and technology used?
+          Cloud native mobile and agent applications to improve policy purchase time by enabling customers to upload vehicle images for approval
+
+          **Technologies used**: Serverless, Lambda, API Gateway, DynamoDB, S3, React, Yaml, NodeJS, REST, Git, Jenkins. Experimentation with Rekognition and TextTract.
+
+      - layout: left
+        title: Previous Projects
+
+        description: | # this will include new lines to allow paragraphs
+          I've worked on a range of projects in the last 10 years, primarily within the digital Service organization of Liberty Mutual, providing functionality for millions of users.
+
+            **Technologies used**: React, DOJO, Java, IBM Process Server, BPEL, Siteminder, MongoDB, Drools.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
