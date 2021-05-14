@@ -39,38 +39,35 @@ content:
         caption: May 2019 - Present
         description: | # this will include new lines to allow paragraphs
           - Rating programing and UI build out
-          - React, AWS, NodeJS, Typescript
-          - DocumentDB
-          - SNS, SQS,
-          - Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
+            - React, AWS, NodeJS, Typescript, DocumentDB, SNS, SQS
           - Significant throughput expectations
           - Event Driven Architecture
-          - Architecture design and reviews
+            - Architecture design and reviews
+            - POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
+            - Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
+            - Kafka and container applications and AWS integration
           - Reuse
           - Automation (CDK)
-          - Kafka and container applications and AWS integration
-          - Innovation & experimentation
-          - Fargate solution
-          - Lambda Power Tuner
-          - Storybook
-          - Artillery test suites
-          - Snyk security testing, reuse idea from other areas, first added to Sales space
-          - Kafka Connect POC
-          - POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
-          - AWS services used
-          - Mentoring
-          - New starts
-          - Code reviews
-          - Lightning Talks
-          - Pair programming
-          - Ramping new devs up in unfamiliar domains
-          - Coaching (specifically autism)
-          - Task delegation, reviews and feedback
-          - Organized and heavily contributed to Well Architected Reviews for AWS services
+            - Innovation & experimentation
+            - Fargate solution
+            - Lambda Power Tuner
+            - Storybook
+            - Artillery test suites
+            - Snyk security testing, reuse idea from other areas, first added to Sales space
+            - Kafka Connect POC
+          - Mentoring / Team structure
+            - New starts
+            - Code reviews
+            - Lightning Talks
+            - Pair programming
+            - Ramping new devs up in unfamiliar domains
+            - Coaching (specifically autism)
+            - Task delegation, reviews and feedback
+          - Organized and heavily contributed to Well Architected Reviews for AWS workloads
           - Working with PO to define stories, backlogs. Leading agile ceremonies.
           - Agile methodologies. Agile and pushed for switch to Kanban to facilitate the work type
           - Demos, technical discussions with high up technical people. Cross team impacts.
-          - Cost considerations
+          - Total Cost of Ownership considerations
 
           **Technologies used**: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, Git. Experimentation with EventBridge, AWS MSK and Kafka.
 
@@ -135,39 +132,32 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Distribution Capabilities Platform
 
 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Project Description and technology used?
 
       - layout: top-middle
-        title: Super awesome project
+        title: Oasis 2 Rating Program
 
 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Project Description and technology used?
 
       - layout: top-middle
-        title: Super awesome project
+        title: Online Policy Change Modernization
 
 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Project Description and technology used?
 
       - layout: top-middle
-        title: Super awesome project
+        title: ADIL
 
 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-      - layout: top-middle
-        title: Super awesome project
-
-
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Project Description and technology used?
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
