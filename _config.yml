@@ -38,39 +38,39 @@ content:
         sub_title: Principal Software Engineer
         caption: May 2019 - Present
         description: | # this will include new lines to allow paragraphs
-        •	Rating programing and UI build out
-        o	React, AWS, NodeJS, Typescript
-        o	DocumentDB
-        o	SNS, SQS,
-        o	Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
-        o	Significant throughput expectations
-        •	Event Driven Architecture
-        o	Architecture design and reviews
-        o	Reuse
-        o	Automation (CDK)
-        o	Kafka and container applications and AWS integration
-        •	Innovation & experimentation
-        o	Fargate solution
-        o	Lambda Power Tuner
-        o	Storybook
-        o	Artillery test suites
-        o	Snyk security testing, reuse idea from other areas, first added to Sales space
-        o	Kafka Connect POC
-        •	POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
-        •	AWS services used
-        •	Mentoring
-        o	New starts
-        o	Code reviews
-        o	Lightning Talks
-        o	Pair programming
-        o	Ramping new devs up in unfamiliar domains
-        o	Coaching (specifically autism)
-        •	Task delegation, reviews and feedback
-        •	Organized and heavily contributed to Well Architected Reviews for AWS services
-        •	Working with PO to define stories, backlogs. Leading agile ceremonies.
-        •	Agile methodologies. Agile and pushed for switch to Kanban to facilitate the work type
-        •	Demos, technical discussions with high up technical people. Cross team impacts.
-        •	Cost considerations
+        Rating programing and UI build out
+        React, AWS, NodeJS, Typescript
+        DocumentDB
+        SNS, SQS,
+        Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
+        Significant throughput expectations
+        Event Driven Architecture
+        Architecture design and reviews
+        Reuse
+        Automation (CDK)
+        Kafka and container applications and AWS integration
+        Innovation & experimentation
+        Fargate solution
+        Lambda Power Tuner
+        Storybook
+        Artillery test suites
+        Snyk security testing, reuse idea from other areas, first added to Sales space
+        Kafka Connect POC
+        POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
+        AWS services used
+        Mentoring
+        New starts
+        Code reviews
+        Lightning Talks
+        Pair programming
+        Ramping new devs up in unfamiliar domains
+        Coaching (specifically autism)
+        Task delegation, reviews and feedback
+        Organized and heavily contributed to Well Architected Reviews for AWS services
+        Working with PO to define stories, backlogs. Leading agile ceremonies.
+        Agile methodologies. Agile and pushed for switch to Kanban to facilitate the work type
+        Demos, technical discussions with high up technical people. Cross team impacts.
+        Cost considerations
         Technologies used: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, Git. Experimentation with EventBridge, AWS MSK and Kafka.
 
       - layout: left
@@ -78,36 +78,35 @@ content:
         sub_title: Senior Software Engineer
         caption: April 2014 – May 2019
         description: | # this will include new lines to allow paragraphs
-          •	Technology used
-          o	DOJO, Java, Process  Server, BPM, mobile app testing
-          •
-          •	AWS services used
-          •	Modernization
-          •	ADIL
-          o	Virus scanner
-          o	Threat modelling and taking through security review
-          •	SELF STUDY
-          o	AWS, React
-          •	PSS and innovation sprint
-          o	Performance optimzation
-          •	TECH LEAD
-          •	Projects
-          o	PCI
-          o	Life Policy
-          o	Monthly Release
-          o	Dojo Upgrade
-          o	OPC rollout
-          •	DUBLIN / US Teams ramp up and mentoring to be self sufficient
-          o	Presentation, architecture walk throughs, pair programming
-          o	2 weeks in US
-          •	A/B Testing
-          •	Exploratory Testing
-          •	Performance Testing
-          •	BDD
-          •	Code reviews
-          •	Tech talks
-          •	Inner sourcing
-          •	TCO analysis
+          Technology used
+          DOJO, Java, Process  Server, BPM, mobile app testing
+          AWS services used
+          Modernization
+          ADIL
+          Virus scanner
+          Threat modelling and taking through security review
+          SELF STUDY
+          AWS, React
+          PSS and innovation sprint
+          Performance optimzation
+          TECH LEAD
+          Projects
+          PCI
+          Life Policy
+          Monthly Release
+          Dojo Upgrade
+          OPC rollout
+          DUBLIN / US Teams ramp up and mentoring to be self sufficient
+          Presentation, architecture walk throughs, pair programming
+          2 weeks in US
+          A/B Testing
+          Exploratory Testing
+          Performance Testing
+          BDD
+          Code reviews
+          Tech talks
+          Inner sourcing
+          TCO analysis
 
           Technologies used: CFT, Serverless, Lambda, API Gateway, DynamoDB, React, NodeJS, DOJO, Java, Process Server, BPM. Experimentation with AWS Rekognition and TextTract.
 
@@ -116,18 +115,18 @@ content:
         sub_title: Associate Software Engineer / Software Engineer
         caption: June 2011 – April 2014
         description: | # this will include new lines to allow paragraphs
-            •	Technology used
-            o	Unit, integration, exploratory testing
-            •	Various projects
-            o	Make a payment
-            o	Home page redesign (distributed teams)
-            	Working closely with business teams
-            	Initially mostly waterfall projects
-            o	OPC
-            	Deadlines, £20m budget
-            	Data analytics. Analytics Framework. Worked wi
-            •	Front End guidance teams
-            •	Science fairs
+            Technology used
+            Unit, integration, exploratory testing
+            Various projects
+            Make a payment
+            Home page redesign (distributed teams)
+            Working closely with business teams
+            Initially mostly waterfall projects
+            OPC
+            Deadlines, £20m budget
+            Data analytics. Analytics Framework. Worked wi
+            Front End guidance teams
+            Science fairs
 
             Technologies used: DOJO, Java, Process Server, BPM, Omniture
 
