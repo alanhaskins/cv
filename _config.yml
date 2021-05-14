@@ -38,6 +38,8 @@ content:
         sub_title: Principal Software Engineer
         caption: May 2019 - Present
         description: | # this will include new lines to allow paragraphs
+          **Roles and responsibilities included**:
+
           - Rating programing and UI build out
             - React, AWS, NodeJS, Typescript, DocumentDB, SNS, SQS
           - Significant throughput expectations
@@ -76,6 +78,8 @@ content:
         sub_title: Senior Software Engineer
         caption: April 2014 – May 2019
         description: | # this will include new lines to allow paragraphs
+          **Roles and responsibilities included**:
+
           - Technology used
           - DOJO, Java, Process  Server, BPM, mobile app testing
           - AWS services used
@@ -113,6 +117,8 @@ content:
         sub_title: Associate Software Engineer / Software Engineer
         caption: June 2011 – April 2014
         description: | # this will include new lines to allow paragraphs
+            **Roles and responsibilities included**:
+              
             - Technology used
             - Unit, integration, exploratory testing
             - Various projects
