@@ -38,40 +38,40 @@ content:
         sub_title: Principal Software Engineer
         caption: May 2019 - Present
         description: | # this will include new lines to allow paragraphs
-        Rating programing and UI build out
-        React, AWS, NodeJS, Typescript
-        DocumentDB
-        SNS, SQS,
-        Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
-        Significant throughput expectations
-        Event Driven Architecture
-        Architecture design and reviews
-        Reuse
-        Automation (CDK)
-        Kafka and container applications and AWS integration
-        Innovation & experimentation
-        Fargate solution
-        Lambda Power Tuner
-        Storybook
-        Artillery test suites
-        Snyk security testing, reuse idea from other areas, first added to Sales space
-        Kafka Connect POC
-        POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
-        AWS services used
-        Mentoring
-        New starts
-        Code reviews
-        Lightning Talks
-        Pair programming
-        Ramping new devs up in unfamiliar domains
-        Coaching (specifically autism)
-        Task delegation, reviews and feedback
-        Organized and heavily contributed to Well Architected Reviews for AWS services
-        Working with PO to define stories, backlogs. Leading agile ceremonies.
-        Agile methodologies. Agile and pushed for switch to Kanban to facilitate the work type
-        Demos, technical discussions with high up technical people. Cross team impacts.
-        Cost considerations
-        Technologies used: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, Git. Experimentation with EventBridge, AWS MSK and Kafka.
+          Rating programing and UI build out
+          React, AWS, NodeJS, Typescript
+          DocumentDB
+          SNS, SQS,
+          Experiementation and POC of EventBridge, Manage Streaming for Kafka (AWS MSK), Elasticache
+          Significant throughput expectations
+          Event Driven Architecture
+          Architecture design and reviews
+          Reuse
+          Automation (CDK)
+          Kafka and container applications and AWS integration
+          Innovation & experimentation
+          Fargate solution
+          Lambda Power Tuner
+          Storybook
+          Artillery test suites
+          Snyk security testing, reuse idea from other areas, first added to Sales space
+          Kafka Connect POC
+          POCing and thorough analysis of products. EventBridge vs Kafka vs AWS MSK Kafka.
+          AWS services used
+          Mentoring
+          New starts
+          Code reviews
+          Lightning Talks
+          Pair programming
+          Ramping new devs up in unfamiliar domains
+          Coaching (specifically autism)
+          Task delegation, reviews and feedback
+          Organized and heavily contributed to Well Architected Reviews for AWS services
+          Working with PO to define stories, backlogs. Leading agile ceremonies.
+          Agile methodologies. Agile and pushed for switch to Kanban to facilitate the work type
+          Demos, technical discussions with high up technical people. Cross team impacts.
+          Cost considerations
+          Technologies used: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, Git. Experimentation with EventBridge, AWS MSK and Kafka.
 
       - layout: left
         title: Liberty IT, Belfast
