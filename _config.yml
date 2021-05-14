@@ -23,12 +23,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a principal software engineer with 10 years' experience within a large IT organization. I've quickly progressed from internship through the grades to tech leading applications with 100,000 daily users.
 
-I've experience across a variety of projects and exposure to range of tools and techniques. In the last few years I've worked on building some of the first cloud native architectures within LIT as well as building and designing a number of event driven solutions. Most recently I've been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic core services that will enable teams to quickly spin up and roll out rating programs going forward.
-
-I particularly enjoy experimentation and innovation. POCing new concepts. Cloud native and serverless architectures. Working closely with other developers to design complex systems and concepts.
-
-Skilled in performance, stability and security analysis.
-
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
