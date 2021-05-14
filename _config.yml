@@ -115,20 +115,20 @@ content:
         sub_title: Associate Software Engineer / Software Engineer
         caption: June 2011 – April 2014
         description: | # this will include new lines to allow paragraphs
-            Technology used
-            Unit, integration, exploratory testing
-            Various projects
-            Make a payment
-            Home page redesign (distributed teams)
-            Working closely with business teams
-            Initially mostly waterfall projects
-            OPC
-            Deadlines, £20m budget
-            Data analytics. Analytics Framework. Worked wi
-            Front End guidance teams
-            Science fairs
+            - Technology used
+            - Unit, integration, exploratory testing
+            - Various projects
+            - Make a payment
+            - Home page redesign (distributed teams)
+            - Working closely with business teams
+            - Initially mostly waterfall projects
+            - OPC
+            - Deadlines, £20m budget
+            - Data analytics. Analytics Framework. Worked wi
+            - Front End guidance teams
+            - Science fairs
 
-            Technologies used: DOJO, Java, Process Server, BPM, Omniture
+            **Technologies used**: DOJO, Java, Process Server, BPM, Omniture
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -178,3 +178,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+ github: [metadata]
