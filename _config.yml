@@ -80,8 +80,6 @@ content:
             - Participated in guidance teams to ensure code quality and consistency across teams
             - Represented LIT at external events such as graduate science fairs
 
-            **Technologies used**: DOJO, Java, Process Server, BPM, Omniture
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
