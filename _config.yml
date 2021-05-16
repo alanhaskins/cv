@@ -38,14 +38,13 @@ content:
         sub_title: Principal Software Engineer
         caption: May 2019 - Present
         description: | # this will include new lines to allow paragraphs
-          **Roles and responsibilities included**:
+          **Roles and responsibilities include**:
 
           - Providing technical leadership on a team creating a UI and services as part of a new home quoting system, as well as a core capabilities platform and event driven architecture
           - POCing a number of technology options and designing alternative solutions to complex problems, including total cost of ownership of solutions
           - Working closely across teams and with senior technical leaders to gather system requirements, demo and review solutions
-          - Innovating and reusing solutions to improve performance and speed to market for our applications.
-            - Including contributing some of the first components to our internal CDK repo, introducing storybook component library, artillery performance testing, lambda performance tuning, reusable proxy solution and Kafka to lambda enablement.
-          - Working with product owner and team to define and prioritize stories in a technically complex domain
+          - Innovating and reusing solutions to improve performance and speed to market for our applications. This includes contributing some of the first components to our internal CDK repo; introducing Storybook to aid component build out; artillery performance testing; lambda performance tuning; a reusable proxy solution and Kafka to lambda enablement.
+          - Working with product owners and teams to define and prioritise stories in a technically complex domain
           - Mentoring an inexperienced team via code reviews, pair programming, architectural overviews and lightning talks
           - Organizing and contributing to Well Architected Reviews for AWS workloads
 
