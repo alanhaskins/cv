@@ -21,13 +21,13 @@ linkedin_username: alan-haskins-52a45116a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a principal software engineer with 10 years' experience within a large IT organization. I've quickly progressed from internship through the grades to tech leading applications with 100,000 daily users (TODO: check this).
+  I am a principal software engineer with 10 years' experience within a large IT organization. I have quickly progressed from internship through the grades to tech leading high traffic applications.
 
-  I've experience across a variety of projects and exposure to range of tools and techniques. In the last few years I've worked on designing and implementing cloud native services and event driven solutions. Most recently I've been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic services to enable teams to quickly spin up and roll out future rating programs.
+  I have experience across a variety of projects and exposure to a range of tools and techniques. In the last few years I have worked on designing and implementing cloud native services and event driven solutions. Most recently I have been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic services to enable teams to quickly spin up and roll out future rating programs.
 
-  I particularly enjoy experimentation, innovating and testing proof of concepts on cloud native and serverless architectures, as well working closely with other developers to design complex systems and concepts.
+  I particularly enjoy experimentation; innovating and testing proof of concepts on cloud native and serverless architectures, as well working closely with other developers to design complex systems and concepts.
 
-  My projects have given me opportunities to take ownership of the performance, stability and security of my applications and Ive developed a strong focus on these aspects in my deliverables.
+  My projects have given me opportunities to take ownership of the performance, stability and security of my applications and I have developed a strong focus on these aspects in my deliverables.
 
 content:
   - title: Work Experience # Title for the section
@@ -119,7 +119,7 @@ content:
         title: Previous Projects
 
         description: | # this will include new lines to allow paragraphs
-          I've worked on a range of projects in the last 10 years, primarily within the digital Service organization of Liberty Mutual, providing functionality for millions of users.
+          I have worked on a range of projects in the last 10 years, primarily within the digital Service organization of Liberty Mutual, providing functionality for millions of users.
 
             **Technologies used**: React, DOJO, Java, IBM Process Server, BPEL, Siteminder, MongoDB, Drools.
 
