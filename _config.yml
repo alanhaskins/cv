@@ -75,7 +75,7 @@ content:
 
             - Proving myself as a trusted and capable team member who could work on a variety of tasks autonomously
             - Quickly understanding and undertaking work in unfamiliar domains and technologies
-            - Working closely with business partners and remote team members and delivering on projects, primarily via waterfall methodology
+            - Working closely with business partners and remote team members to deliver on projects, primarily via a waterfall methodology
             - Validating code deliveries via unit, integration and exploratory testing
             - Working with technical leaders and other project teams to gather requirements and implement an analytics framework in a high pressure environment
             - Participating in guidance teams to ensure code quality and consistency across teams
@@ -88,7 +88,7 @@ content:
         title: Distribution Capabilities Platform
 
         description: | # this will include new lines to allow paragraphs
-          Creating a number of product agnostic and event driven services to enable faster development of future quoting systems.
+          Product agnostic and event driven services to enable faster development of future quoting systems.
 
           **Technologies used**: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, DocumentDB, React, Typescript, NodeJS, GraphQL, REST, Git, Bamboo, Splunk, Datadog. Experimentation with EventBridge, AWS MSK and Kafka.
 
@@ -96,7 +96,7 @@ content:
         title: Oasis 2 Home Quoting
 
         description: | # this will include new lines to allow paragraphs
-          A UI and services to support quoting, rating and binding of home policies through liberymutual.com
+          UI and services to support quoting, rating and binding of home policies through liberymutual.com
 
           **Technologies used**: CFT, CDK, Serverless, Lambda, SNS, SQS, API Gateway, DynamoDB, React, Typescript, NodeJS, GraphQL, REST, Git, Bamboo, Splunk, Datadog.
 
@@ -104,7 +104,7 @@ content:
         title: Serverless Policy Endorsements (OPC)
 
         description: | # this will include new lines to allow paragraphs
-          Using event driven architectures to automate policy endorsement opportunities for customers.
+          Event driven architecture to automate policy endorsement opportunities for customers.
 
           **Technologies used**: CFT, Lambda, Step Functions, Fargate, API Gateway, DynamoDB, S3, React, NodeJS, REST, Git, Jenkins.
 
@@ -120,9 +120,9 @@ content:
         title: Previous Projects
 
         description: | # this will include new lines to allow paragraphs
-          I have worked on a range of projects in the last 10 years, primarily within the digital Service organization of Liberty Mutual, providing functionality for millions of users.
+          I have worked on a range of projects in the last 10 years, primarily within the Digital Service organization of Liberty Mutual, providing functionality for millions of users.
 
-            **Technologies used**: React, DOJO, Java, IBM Process Server, BPEL, Siteminder, MongoDB, Drools.
+          **Technologies used**: React, DOJO, Java, IBM Process Server, BPEL, Siteminder, MongoDB, Drools.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -137,10 +137,7 @@ content:
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Aside from technology, my other interests include:
-      - Barbecueing
-      - Running
-      - Reading
+      Aside from technology, my other interests include barbecuing, running, reading and board gaming.
 
 # Footer
 footer_show_references: true
