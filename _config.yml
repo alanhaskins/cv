@@ -55,14 +55,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Roles and responsibilities included**:
 
-          - Tech lead on a number of agile projects and worked closely with team, product owners and business partners to define workloads
-          - Responsible for delivering secure, stable and performant applications, working on project design through to production delivery and maintenance
-          - Worked on some of the first AWS cloud native architectures in Liberty Mutual, primarily learning through self directed study
-          - Developed applications with a Performance, Stability and Security (PSS) focussed mentality
-          - Creation of a PSS application and led cross team initiative to engage teams to improve PSS aspects of their applications
-          - Took projects though security review processes and implemented an antivirus scanner to protect our resources against unsafe files
+          - Tech leading a number of agile projects and working closely with teams, product owners and business partners to define workloads
+          - Delivering secure, stable and performant applications, working from project design through to delivery and monitoring/maintenance
+          - Working on some of the first AWS cloud native architectures in Liberty Mutual, primarily learning through self directed study
+          - Developing applications with a Performance, Stability and Security (PSS) focussed mentality
+          - Creating of a PSS application and led cross team initiative to engage teams to improve PSS aspects of their applications
+          - Taking projects though security review processes and implemented an antivirus scanner to protect our resources against unsafe files
           - Mentoring and transitioning of workloads to  remote teams, including spending 2 weeks in US to provide support to new teams
-          - Built experience in a number of techniques including pair programming, exploratory testing, threat modelling, A/B testing and BDD
+          - Building experience in a number of techniques including pair programming, exploratory testing, threat modelling, A/B testing and BDD
 
       - layout: left
         title: Liberty IT, Belfast
