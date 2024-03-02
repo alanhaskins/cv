@@ -21,24 +21,43 @@ linkedin_username: alan-haskins-52a45116a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a principal software engineer with 10 years' experience within a large IT organization. I have quickly progressed from internship through the grades to tech leading high traffic applications.
+  I am an experienced software engineer with 12.5 years experience across a couple of large IT organizations. 
+  
+  At LibertyIT, I quickly progressed from internship through the grades to tech leading high traffic applications. For a new challenge, I moved to Globalization Partners to re-imagine a complex monolithic Java/RDS system into an event driven, serverless ecosystem.
 
-  I have experience across a variety of projects and exposure to a range of tools and techniques. One of my strengths is my ability to quickly learn and implement effectivelty with unfamiliar technologies.
-
-  In the last few years I have worked on designing and implementing cloud native services and event driven solutions. Most recently I have been tech leading a junior team through challenging work build a new home quoting application as well as designing and innovating on product agnostic services to enable teams to quickly spin up and roll out future rating programs.
+  I am an experienced AWS and Serverless engineer with significant experience building scalable, business critical services.
+  
+  I have had exposure to many projects and a range of tools and techniques. One of my strengths is my ability to quickly learn and implement effectivelty with unfamiliar technologies.
 
   I particularly enjoy experimentation; innovating and testing proof of concepts on cloud native and serverless architectures, as well working closely with other developers to design complex systems and concepts.
 
   My projects have given me opportunities to take ownership of the performance, stability and security of my applications and I have developed a strong focus on these aspects in my deliverables.
+
+  In previous roles I have spent time leading teams of junior engineers through complex workloads. More recently I have been closely engaging with senior techincal leaders and influencing the technology direction at GP.
 
 content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Globalization Partners, Belfast
+        sub_title: Senior Software Engineer
+        caption: August 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          **Roles and responsibilities include**:
+
+          - Introduced some of the first Serverless workloads to GP and instrumental in the shift from monolith to team owned microservices
+          - Worked to move infrastucture towards team ownership rather than overloaded DevOps teams
+          - Innovating and proving out a number of technologies for the first time in GP as well as feeding back to technical leaders
+          -- Including Step Functions, EventBridge, EventBridge Pipes
+          - Became a contact for developers for all Serverless queries and mentored team members on AWS technology to share learnings
+          - Running well architected reviews, threat models, performance testing, production monitoring
+          - Tech lead on a number of API and event driven serverless projects
+          
+      - layout: left
         title: Liberty IT, Belfast
         sub_title: Principal Software Engineer
-        caption: May 2019 - Present
+        caption: May 2019 - August 2021
         description: | # this will include new lines to allow paragraphs
           **Roles and responsibilities include**:
 
@@ -84,6 +103,27 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: EOR Billing
+
+        description: | # this will include new lines to allow paragraphs
+          Highly scalable, event driven EOR bill generation and pricing
+
+          **Technologies used**: AWS SAM, SQS, SNS, Typescript, Lambda, EventBridge, Step Functions, DynamodDB, Artillery Perforamnce Testing, New Relic.
+      - layout: left
+        title: Contractor Billing
+
+        description: | # this will include new lines to allow paragraphs
+          Complex scalable quoting for multiple contractors and invoices and integration with 3rd party payment vendor
+
+          **Technologies used**: AWS SAM, SQS, SNS, EventBridge Pipes, Typescript, Lambda, EventBridge, Step Functions, DynamodDB, Artillery Perforamnce Testing, New Relic.
+      - layout: left
+        title: Pricing Service
+
+        description: | # this will include new lines to allow paragraphs
+         Once of the first Serverless projects within GP, moving a mission critical service to a team owned, serverless solution
+          
+          **Technologies used**: AWS SAM, SQS, SNS, Typescript, Lambda,  DynamodDB, Artillery Perforamnce Testing, New Relic.
       - layout: left
         title: Distribution Capabilities Platform
 
