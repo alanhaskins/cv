@@ -21,11 +21,11 @@ linkedin_username: alan-haskins-52a45116a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an experienced software engineer with 12.5 years experience across a couple of large IT organizations. 
+  I am a software engineer with 12.5 years experience across a couple of large IT organizations. 
   
   At LibertyIT, I quickly progressed from internship through the grades to tech leading high traffic applications. For a new challenge, I moved to Globalization Partners to re-imagine a complex monolithic Java/RDS system into an event driven, serverless ecosystem.
 
-  I am an experienced AWS and Serverless engineer with significant experience building scalable, business critical services.
+  I am an experienced AWS and Serverless engineer with knowledge of building scalable, business critical services.
   
   I have had exposure to many projects and a range of tools and techniques. One of my strengths is my ability to quickly learn and implement effectivelty with unfamiliar technologies.
 
